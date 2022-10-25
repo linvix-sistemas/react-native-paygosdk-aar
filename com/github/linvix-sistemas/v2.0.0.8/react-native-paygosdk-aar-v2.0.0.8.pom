@@ -4,9 +4,9 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.paygo</groupId>
-    <artifactId>interface-automacao</artifactId>
+    <groupId>com.github.linvix-sistemas</groupId>
+    <artifactId>react-native-paygosdk-aar</artifactId>
 
-    <version>2.0.0.8</version>
+    <version>v2.0.0.8</version>
     <packaging>aar</packaging>
 </project>

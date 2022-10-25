@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <groupId>com.github.linvix-sistemas</groupId>
+    <artifactId>react-native-paygosdk-aar</artifactId>
+
+    <versioning>
+        <latest>v2.0.0.8</latest>
+        <release>v2.0.0.8</release>
+        <versions>
+            <version>v2.0.0.8</version>
+        </versions>
+        <lastUpdated>20221012142934</lastUpdated>
+    </versioning>
+</metadata>
