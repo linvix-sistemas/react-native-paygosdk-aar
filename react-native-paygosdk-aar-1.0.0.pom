@@ -7,6 +7,6 @@
     <groupId>com.github.linvix-sistemas</groupId>
     <artifactId>react-native-paygosdk-aar</artifactId>
 
-    <version>v2.0.0.8</version>
+    <version>1.0.0</version>
     <packaging>aar</packaging>
 </project>
